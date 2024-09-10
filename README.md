@@ -99,7 +99,7 @@ This project processes PDF files to redact sensitive information, extract struct
 
 ## Future Improvements
 
-- Support for additional document types beyond university transcripts.
+- Support for additional document types beyond university transcripts, such as invoice processing, medical records, contracts, etc. This can be coupled with training the Google Cloud Document AI processor to improve accuracy.
 - Enhanced error handling for better fault tolerance.
 - Further optimization for large-scale batch processing.
 
